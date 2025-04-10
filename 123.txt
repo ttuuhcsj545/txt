@@ -1,1 +1,5 @@
+vless://DC03F32D-7CA3-4346-A7C6-779667A16FFE@582a61c8.ddns-link-b5.uk:10037?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&sni=s0.awsstatic.com&headerType=none&host=&path=&fp=chrome#SG-2
+vless://DC03F32D-7CA3-4346-A7C6-779667A16FFE@1f87dc1b.ddns-link-b5.uk:10038?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&sni=s0.awsstatic.com&headerType=none&host=&path=&fp=chrome#SG-3
 
+hysteria2://DC03F32D-7CA3-4346-A7C6-779667A16FFE@tw1.ddns-link-b5.uk:1129/?sni=tw1.ddns-link-b5.uk#TW1-HY2
+hysteria2://DC03F32D-7CA3-4346-A7C6-779667A16FFE@tw2.ddns-link-b5.uk:3053/?sni=tw2.ddns-link-b5.uk#TW2-HY2
