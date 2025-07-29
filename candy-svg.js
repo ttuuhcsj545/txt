@@ -11,7 +11,7 @@ let actualSvgBBoxHeight = 0;
 async function loadSvgData() {
     try {
         // 假设 star.svg 文件在你的根目录或与JS文件相同的目录
-        const response = await fetch('https://raw.githubusercontent.com/ttuuhcsj545/txt/refs/heads/main/1314467.svg');
+        const response = await fetch('https://image.lnova.top/images/1314467.svg');
         const svgText = await response.text();
 
         // 创建一个临时的DOM元素来解析SVG字符串
