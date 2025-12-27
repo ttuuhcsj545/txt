@@ -1,1 +1,0 @@
-vless://DC03F32D-7CA3-4346-A7C6-779667A16FFE@1f87dc1b.ddns-link-b5.uk:10038?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&sni=s0.awsstatic.com&headerType=none&host=&path=&fp=chrome#SG-3

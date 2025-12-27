@@ -1,2 +1,0 @@
-hysteria2://DC03F32D-7CA3-4346-A7C6-779667A16FFE@tw1.ddns-link-b5.uk:1129/?sni=tw1.ddns-link-b5.uk#TW1-HY2
-
